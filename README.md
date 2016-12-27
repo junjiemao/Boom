@@ -2,7 +2,7 @@
 Boom是CRAN上的一个R包，在CRAN上的介绍如下:
 > A C++ library for Bayesian modeling, with an emphasis on Markov chain Monte Carlo. Although boom contains a few R utilities (mainly plotting functions), its primary purpose is to install the BOOM C++ library on your system so that other packages can link against it.
 
-本项目克隆之[CRAN](https://cran.r-project.org/web/packages/Boom/index.html)
+本项目克隆自[CRAN](https://cran.r-project.org/web/packages/Boom/index.html)
 
 ## 未来计划
 
